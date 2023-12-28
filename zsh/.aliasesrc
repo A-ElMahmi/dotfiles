@@ -1,0 +1,35 @@
+############################################################
+#                    Built-in commands                     #
+############################################################
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+
+alias -- -='cd -'
+alias -- /='cd /'
+
+alias ls='ls -F --color=auto --group-directories-first'
+alias l='ls'
+alias la='ls -A'
+alias ll='ls -Al'
+
+alias grep='grep --color=auto'
+alias cat='batcat'
+
+
+############################################################
+#                      Custom aliases                      #
+############################################################
+
+alias j='z'
+
+
+############################################################
+#                       Windows exe                        #
+############################################################
+
+alias clip="/mnt/c/Windows/System32/clip.exe"
+alias explorer="/mnt/c/Windows/explorer.exe"
+alias code="/mnt/c/Program\ Files/Microsoft\ VS\ Code/Code.exe"
