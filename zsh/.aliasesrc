@@ -33,3 +33,4 @@ alias j='z'
 alias clip="/mnt/c/Windows/System32/clip.exe"
 alias explorer="/mnt/c/Windows/explorer.exe"
 alias code="/mnt/c/Program\ Files/Microsoft\ VS\ Code/Code.exe"
+alias chrome="/mnt/c/Program\ Files/Google/Chrome/Application/chrome.exe"
